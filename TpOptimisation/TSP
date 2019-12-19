@@ -1,0 +1,3 @@
+// ensemble des sous sommets de sommets 
+{int} Sub[s in S] = { i | i in Nodes}
+{s div ftoi (round}
